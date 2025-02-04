@@ -48,6 +48,11 @@ figcaption {
 #tribute-info li {
   margin: 1.5rem 0;
 }
+#tribute-info p {
+  max-width: 500px;
+  font-size: 1.2rem;
+  text-align: left;
+}
 footer a {
   color: #dfdfe2;
   cursor: pointer;
